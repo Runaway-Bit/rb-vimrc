@@ -1,4 +1,4 @@
 rb-vimrc
 ========
 
-Vim configuration used by RunawayBit LLC
+Vim configuration used by Runaway Bit, LLC
